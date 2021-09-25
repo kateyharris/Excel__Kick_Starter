@@ -32,21 +32,25 @@ if the data set is a true and honest representation of data needed to make an ac
 
 ## Results
 
-- Outcomes based on Launch Date
+- Outcomes based on Launch Date:
+-- 
 Based on the analytics of theater fundraisers outcomes compared to the launch date, 
 I would recommend a Spring time launch, with most theater fundraisers being successful when launched in May.
 I would also recommend avoiding fall and winter launching, 
 where it appears to more inclinded to fail, possibly as most folks might be saving funds for the winter holidays.
 
--Outcomes based on Goals:
+- Outcomes based on Goals:
+-- 
 Based on the analytics of the success of a play fundraiser compared to its initial funding goal, less is more.
 The less money needed, the more inclined to raise the money
 
 - Dataset Limitations:
+--
 The supplied kickdstarter dataset was limited to a sample only, and not a full population. 
 The dataset did miss some compenents that might also influence the failure or success of a fundraiser, 
 such as how each campaign was marketed, or what metro area the fundraiser was in.
 
--Further analytics:
+- Further analytics:
+-- 
 Additional visual analytics of the length of time each fundraiser had
 might prove helpful also in making decisions on future fundraising.
